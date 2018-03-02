@@ -17,6 +17,7 @@
 * [OpenSource](#opensource)
 * [PHP](#php)
 * [Python](#python)
+  * [Django](#django)
 * [Ruby](#ruby)
 * [TeX](#tex)
 * [Webdesign](#webdesign)
@@ -59,7 +60,6 @@
 #### Matematika
 
 * [Diskrétní matematika](http://math.feld.cvut.cz/habala/teaching/dma.htm) - Petr Habala (PDFs)
-* [Lineární algebra](ftp://math.feld.cvut.cz/pub/olsak/linal/linal.pdf) - Petr Olšák (PDF)
 * [Matematika SŠ](http://www.realisticky.cz/ucebnice.php?id=3) - Martin Krynický (PDFs)
 * [Think Stats: Pravděpodobnost a statistika pro programátory](http://eknihy.knihovna.cz/kniha/think-stats-pravdepodobnost-a-statistika-pro-programatory) - Allen B. Downey (PDF)
 
@@ -114,6 +114,11 @@
 
 * [Ponořme se do Pythonu 3](https://knihy.nic.cz) - Mark Pilgrim (PDF)
 * [Učebnice jazyka Python](http://i.iinfo.cz/files/root/k/Ucebnice_jazyka_Python.pdf) (PDF)
+
+
+#### Django
+
+* [Django Girls Tutoriál](https://tutorial.djangogirls.org/cs/) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Ruby
